@@ -58,7 +58,7 @@ body{
 
 .del-icon{
   background: none;
-  color: #fff;
+  color: red;
   cursor: pointer;
   border: none;
   font-size: 1.1rem;
